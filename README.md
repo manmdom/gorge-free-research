@@ -1,3 +1,6 @@
-# gorge-free-research
+# Gorge Free Research
 
-Keyless Arabic topic research with Wikipedia + DuckDuckGo.
+Free, keyless research provider extracted from GorgeReels. Sources: Arabic Wikipedia +
+DuckDuckGo Instant Answer, with relevance scoring and Arabic normalisation.
+
+The local script generator stays honest: it does not present unsourced numbers as facts.
